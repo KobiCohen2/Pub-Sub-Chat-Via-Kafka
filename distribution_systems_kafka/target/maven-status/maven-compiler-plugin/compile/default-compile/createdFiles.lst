@@ -1,0 +1,3 @@
+com\chat\kafka\KafkaConsumer.class
+com\chat\kafka\KafkaProducer.class
+com\chat\client\Client.class
